@@ -1,6 +1,3 @@
-# springboot-sweeger
- cadastro de produto, utilizando SpringBoot 
-
 <h1 align="center">
   <img alt="Springboot-Sweeger" src="" />
 </h1>
